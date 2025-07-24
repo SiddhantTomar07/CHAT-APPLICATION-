@@ -1,0 +1,13 @@
+HOW TO RUN:
+
+1. Open terminal and go to this folder.
+2. Install dependencies:
+   npm install
+
+3. Run the server:
+   npm start
+
+4. Open your browser and visit:
+   http://localhost:3000
+
+This is a basic AI chat app using OpenRouter.
